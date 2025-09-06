@@ -4,7 +4,7 @@ A Flask-based web application for managing WhatsApp Business chatbot with FAQ ma
 
 ## Features
 
-- **Admin Authentication**: Secure login (Admin/Admin)
+- **Admin Authentication**: Secure login with login details
 - **WhatsApp Business Integration**: Connect to real WhatsApp Business API (Meta)
 - **FAQ Management**: Create, edit, delete FAQs with sub-questions support
 - **Mobile Simulation**: Test chatbot responses in real-time
@@ -77,13 +77,13 @@ Notes:
 2. Add your phone number(s) and ensure you have the correct Phone Number ID and a valid API token.
 
 ### Testing
-1. Visit the Railway URL and log in (Admin/Admin).
+1. Visit the Railway URL and log in with your log in details.
 2. Fill the WhatsApp connection fields under Settings and Save.
 3. Use "Send Test WhatsApp" to send a message to your own number (E.164 format).
 
 ## Default Login
-- Username: Admin
-- Password: Admin
+- Username: xxxx
+- Password: xxxx
 
 ## Usage
 
